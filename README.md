@@ -1,6 +1,8 @@
 ### 👋 Hi, I’m @okeowo-cloud
 <br> 📫 How to reach me: <br>
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/okeowotee) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/tunde-okeowo-b660a3142/)
+[![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:okeowosamuel58.to@gmail.com)](mailto:okeowosamuel58.to@gmail.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/tunde-okeowo-b660a3142)
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/okeowotee)
 - 👀 I’m interested in Data Science and Machine Learning 
 - 🌱 I’m currently learning Supervised learning and just completed my first artificial neural networks for Number Recognition.
 - 💞️ I’m looking to collaborate on any project in data science and Supervised Learning
