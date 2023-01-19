@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @okeowo-cloud
+### Hey, Tunde here!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 <br> 📫 How to reach me: <br>
 [![Gmail Badge](https://img.shields.io/badge/-okeowosamuel58.to@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:okeowosamuel58.to@gmail.com)](mailto:okeowosamuel58.to@gmail.com)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/tunde-okeowo-b660a3142)
