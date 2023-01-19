@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @okeowo-cloud
 <br> 📫 How to reach me: <br>
-[![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:okeowosamuel58.to@gmail.com)](mailto:okeowosamuel58.to@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-okeowosamuel58.to@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:okeowosamuel58.to@gmail.com)](mailto:okeowosamuel58.to@gmail.com)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/tunde-okeowo-b660a3142)
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/okeowotee)
 - 👀 I’m interested in Data Science and Machine Learning 
