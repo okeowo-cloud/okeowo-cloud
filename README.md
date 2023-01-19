@@ -8,7 +8,7 @@
 okeowo-cloud/okeowo-cloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Tunde's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=okeowo-cloud&count_private=true&layout=compactshow_icons=true&theme=radical)](https://github.com/okeowo-cloud/github-readme-stats)
+[![Tunde's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=okeowo-cloud&count_private=true&layout=compactshow_icons=true&show_icons=true&theme=radical)](https://github.com/okeowo-cloud/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=okeowo-cloud)](https://github.com/okeowo-cloud/github-readme-stats)
 
