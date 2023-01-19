@@ -4,10 +4,10 @@
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/tunde-okeowo-b660a3142)
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/okeowotee)
 
-- 👀 I’m interested in Data Science and Machine Learning 
-- 🌱 I’m currently learning Supervised learning and just completed my first artificial neural networks for Number Recognition.
-- 💞️ I’m looking to collaborate on any project in data science and Supervised Learning
-- 📫 How to reach me ...on whatsapp 07015072333
+- 👀 I’m curious about Bioinformatics, machine learning methods and statistics for analyzing Omics data and computer vision.
+- 🌱 I’m currently learning bioinformatics, statistics and machine learning applied to biology and medicine.
+- 💞️ I'm passionate about  AI/ML/DL applied to biology and medicine.
+- 👀 I’m looking forward to meeting new mentors and collaborate on exciting projects
 
 [![Tunde's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=okeowo-cloud&count_private=true&layout=compactshow_icons=true&show_icons=true&theme=radical)](https://github.com/okeowo-cloud/github-readme-stats)
 <br>
