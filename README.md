@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @okeowo-cloud
-<br> 📫 How to reach me:
+### 👋 Hi, I’m @okeowo-cloud
+<br> 📫 How to reach me: <br>
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/okeowotee) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/tunde-okeowo-b660a3142/)
 - 👀 I’m interested in Data Science and Machine Learning 
 - 🌱 I’m currently learning Supervised learning and just completed my first artificial neural networks for Number Recognition.
