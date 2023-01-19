@@ -4,6 +4,7 @@
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/tunde-okeowo-b660a3142)
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/okeowotee)
 
+### To help you get started
 - 👀 I’m curious about Bioinformatics, machine learning methods and statistics for analyzing Omics data and computer vision.
 - 🌱 I’m currently learning bioinformatics, statistics and machine learning applied to biology and medicine.
 - 💞️ I'm passionate about  AI/ML/DL applied to biology and medicine.
